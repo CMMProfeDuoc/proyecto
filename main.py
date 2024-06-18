@@ -4,4 +4,4 @@ print("Esto es un ejemplo")
 
 gato.maullar()
 
-gato.maullar()
+gato.puedeSaltar(7)
